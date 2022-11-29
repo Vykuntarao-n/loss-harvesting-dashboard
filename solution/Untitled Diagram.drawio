@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T06:45:02.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mPA3zeO5wp0btsmAquMP" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-29T06:48:47.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="OcKGLM34vL84MYMasT_j" version="20.6.0" type="github" pages="2">
   <diagram id="cjQaIy38DdPEgIh5tRGR" name="Current State">
     <mxGraphModel dx="920" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
         <mxCell id="i4m-GZeJ5dxmzm1YNVpR-5" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;weekly&amp;nbsp;&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Files.svg;" parent="1" vertex="1">
           <mxGeometry x="370" y="350" width="64" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="i4m-GZeJ5dxmzm1YNVpR-10" value="&lt;b&gt;Understanding of the current system:&lt;/b&gt;&lt;br&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;Account&amp;nbsp;Security Positions for customers&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="i4m-GZeJ5dxmzm1YNVpR-10" value="&lt;b&gt;Understanding of the current system:&lt;/b&gt;&lt;br&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;Account&amp;nbsp;Security Positions for customers&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="250" y="50" width="480" height="100" as="geometry" />
         </mxCell>
       </root>
