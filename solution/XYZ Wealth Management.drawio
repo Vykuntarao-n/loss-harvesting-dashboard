@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" modified="2022-11-29T08:00:31.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sp4KyvoR4tqtKX-VAMt2" version="20.6.0" type="github" pages="2">
+  <diagram id="o-PVrU7RFIEbedOI8Qb6" name="Current State">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q3xTupe04iv9p-WDnLsS-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Mainframe_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="140" y="360" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="q3xTupe04iv9p-WDnLsS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q3xTupe04iv9p-WDnLsS-2" target="q3xTupe04iv9p-WDnLsS-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q3xTupe04iv9p-WDnLsS-2" value="&lt;span style=&quot;text-align: left;&quot;&gt;Customers Account Data&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" parent="1" vertex="1">
+          <mxGeometry x="340" y="290" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="q3xTupe04iv9p-WDnLsS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="q3xTupe04iv9p-WDnLsS-4" target="q3xTupe04iv9p-WDnLsS-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q3xTupe04iv9p-WDnLsS-4" value="&lt;span style=&quot;background-color: rgb(248, 249, 250); text-align: left;&quot;&gt;Customers Account Data&amp;nbsp;&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Files.svg;" parent="1" vertex="1">
+          <mxGeometry x="333" y="500" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="q3xTupe04iv9p-WDnLsS-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Given:&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The following is the nature of back office data:&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Account Security Positions for customers&lt;/li&gt;&lt;li&gt;Tax Lot Data for customer Accounts&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;b&gt;Assumptions:&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;There are two end points&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Account Security Positions&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Sub set data as - Tax Lot Data for Position&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;https://www.tdameritrade.com/education/personal-finance/taxes/what-is-a-tax-lot.html&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Each time you purchase a security, the new position is a distinct and separate tax lot — even if you already owned shares of the same security. (A tax lot is a record of a transaction and its tax implications, including the purchase date and number of shares.)&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=left;" parent="1" vertex="1">
+          <mxGeometry x="210" y="40" width="600" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="e9vhJawdsTbPKa-YV-wo-1" value="&lt;b style=&quot;&quot;&gt;Questions:&amp;nbsp;&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;What is the use case&amp;nbsp;of the weekly files?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=left;" parent="1" vertex="1">
+          <mxGeometry x="333" y="620" width="257" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="z6O1NbABLcKPI-ZB7ojw-1" value="XYZ Wealth Management System" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;" parent="1" vertex="1">
+          <mxGeometry x="580" y="300" width="65" height="52" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PaW2ef6qxUGl2FeUnJ2f" name="Proposed Solution">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
