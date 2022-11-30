@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T06:05:21.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iAF5cZVGB_wKaF2aBjmo" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-30T06:12:01.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Ajt7pFDF51Mmw71xsWwF" version="20.6.0" type="github" pages="3">
   <diagram id="o-PVrU7RFIEbedOI8Qb6" name="Current State">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,26 +37,26 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ALKuPea_s1evwIihJP0Q-1" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="1040" height="720" as="geometry" />
+          <mxGeometry x="40" y="60" width="1170" height="720" as="geometry" />
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-2" value="Functional Requirements" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-1">
-          <mxGeometry y="40" width="1040" height="370" as="geometry" />
+          <mxGeometry y="40" width="1170" height="370" as="geometry" />
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-3" value="Current State" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-2">
           <mxGeometry x="40" width="660" height="370" as="geometry">
             <mxRectangle width="660" height="370" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4kDXwAbJmGrS9gbSMNsB-1" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Who are the consumers of the application ?&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Only the Advisers ?&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;strike&gt;Or Customers will also have access to the back off systems ?&amp;nbsp;&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Assumption: &lt;/b&gt;Since this is used by the back office assuming the application is only used by the advisers&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;How many advisers are there?&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Current uses cases of the application ?&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Is the current back of systems service end points serves the real time data ?&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Is the vendor owns the data or only provide the services to process and serve the data ?&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Assumption: &lt;/b&gt;Vendor only provide the services and Data is owned by the XYZ Wealth Management.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-3">
-          <mxGeometry y="50" width="660" height="220" as="geometry" />
+        <mxCell id="4kDXwAbJmGrS9gbSMNsB-1" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Who are the consumers of the application ?&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Only the Advisers ?&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;strike&gt;Or Customers will also have access to the back off systems ?&amp;nbsp;&lt;/strike&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Assumption: &lt;/b&gt;Since this is used by the back office assuming the application is only used by the advisers&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;How many advisers are there?&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Current uses cases of the application ?&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Is the current back of systems service end points serves the real time data ?&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Is the vendor owns the data or only provide the services to process and serve the data?&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Assumption: &lt;/b&gt;Vendor only provide the services and Data is owned by the XYZ Wealth Management.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Is the realized and unrealized gains/losses for the customer&lt;br/&gt;data is available?&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-3">
+          <mxGeometry y="25" width="660" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="ALKuPea_s1evwIihJP0Q-4" value="Future sate " style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-2">
-          <mxGeometry x="700" width="340" height="370" as="geometry">
-            <mxRectangle width="340" height="370" as="alternateBounds" />
+        <mxCell id="ALKuPea_s1evwIihJP0Q-4" value="Future State " style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-2">
+          <mxGeometry x="700" width="470" height="370" as="geometry">
+            <mxRectangle width="470" height="370" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-5" value="No Function Requirements(NFR)" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-1">
-          <mxGeometry y="410" width="1040" height="310" as="geometry" />
+          <mxGeometry y="410" width="1170" height="310" as="geometry" />
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-6" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-5">
           <mxGeometry x="40" width="660" height="310" as="geometry">
@@ -64,15 +64,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-7" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-5">
-          <mxGeometry x="700" width="340" height="310" as="geometry">
-            <mxRectangle width="340" height="310" as="alternateBounds" />
+          <mxGeometry x="700" width="470" height="310" as="geometry">
+            <mxRectangle width="470" height="310" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="340" width="100" height="60" as="geometry" />
+          <mxGeometry x="1320" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-17" value="Key takeaways" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="60" width="290" height="590" as="geometry" />
+          <mxGeometry x="1540" y="60" width="290" height="590" as="geometry" />
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-18" value="Functional Requirements" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-17">
           <mxGeometry y="40" width="290" height="270" as="geometry" />
