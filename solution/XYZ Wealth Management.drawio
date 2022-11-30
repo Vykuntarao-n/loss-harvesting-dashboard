@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T05:09:46.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Qj6YPZ0wvok21sh1K1cg" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-30T05:14:16.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0v2YVAvX7uhDuX6xoh-q" version="20.6.0" type="github" pages="3">
   <diagram id="o-PVrU7RFIEbedOI8Qb6" name="Current State">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,6 +36,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ALKuPea_s1evwIihJP0Q-1" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="410" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-2" value="Functional Requirements" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-1">
+          <mxGeometry y="40" width="410" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-3" value="Current State" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-2">
+          <mxGeometry x="40" width="180" height="270" as="geometry">
+            <mxRectangle width="180" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-4" value="Future sate " style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-2">
+          <mxGeometry x="220" width="190" height="270" as="geometry">
+            <mxRectangle width="190" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-5" value="No Function Requirements(NFR)" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-1">
+          <mxGeometry y="310" width="410" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-6" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-5">
+          <mxGeometry x="40" width="180" height="310" as="geometry">
+            <mxRectangle width="180" height="310" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-7" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-5">
+          <mxGeometry x="220" width="190" height="310" as="geometry">
+            <mxRectangle width="190" height="310" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
