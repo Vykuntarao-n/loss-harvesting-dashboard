@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T05:14:16.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0v2YVAvX7uhDuX6xoh-q" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-30T05:17:31.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7TbYPdmVVlhnzh7XPKbE" version="20.6.0" type="github" pages="3">
   <diagram id="o-PVrU7RFIEbedOI8Qb6" name="Current State">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,36 +37,55 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ALKuPea_s1evwIihJP0Q-1" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="410" height="620" as="geometry" />
+          <mxGeometry x="40" y="60" width="690" height="620" as="geometry" />
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-2" value="Functional Requirements" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-1">
-          <mxGeometry y="40" width="410" height="270" as="geometry" />
+          <mxGeometry y="40" width="690" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-3" value="Current State" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-2">
-          <mxGeometry x="40" width="180" height="270" as="geometry">
-            <mxRectangle width="180" height="270" as="alternateBounds" />
+          <mxGeometry x="40" width="316" height="270" as="geometry">
+            <mxRectangle width="316" height="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-4" value="Future sate " style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-2">
-          <mxGeometry x="220" width="190" height="270" as="geometry">
-            <mxRectangle width="190" height="270" as="alternateBounds" />
+          <mxGeometry x="356" width="334" height="270" as="geometry">
+            <mxRectangle width="334" height="270" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-5" value="No Function Requirements(NFR)" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-1">
-          <mxGeometry y="310" width="410" height="310" as="geometry" />
+          <mxGeometry y="310" width="690" height="310" as="geometry" />
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-6" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-5">
-          <mxGeometry x="40" width="180" height="310" as="geometry">
-            <mxRectangle width="180" height="310" as="alternateBounds" />
+          <mxGeometry x="40" width="316" height="310" as="geometry">
+            <mxRectangle width="316" height="310" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-7" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-5">
-          <mxGeometry x="220" width="190" height="310" as="geometry">
-            <mxRectangle width="190" height="310" as="alternateBounds" />
+          <mxGeometry x="356" width="334" height="310" as="geometry">
+            <mxRectangle width="334" height="310" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ALKuPea_s1evwIihJP0Q-8" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="240" width="100" height="60" as="geometry" />
+          <mxGeometry x="800" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-17" value="Key takeaways" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="60" width="290" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-18" value="Functional Requirements" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-17">
+          <mxGeometry y="40" width="290" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-19" value="MVP" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-18">
+          <mxGeometry x="40" width="250" height="280" as="geometry">
+            <mxRectangle width="250" height="280" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-20" value="No Function Requirements(NFR)" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-17">
+          <mxGeometry y="320" width="290" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ALKuPea_s1evwIihJP0Q-21" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;" vertex="1" parent="ALKuPea_s1evwIihJP0Q-20">
+          <mxGeometry x="40" width="250" height="280" as="geometry">
+            <mxRectangle width="250" height="280" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
